@@ -1,3 +1,10 @@
+
+# == DEPRECATED ==
+
+This bot has been replaced by https://github.com/tendrilinc/oncall-slack-bot
+
+---
+
 # PagerDuty OnCall Slack bot
 
 ## Local development
